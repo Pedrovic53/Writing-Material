@@ -2,6 +2,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 from statistics import linear_regression
 from sklearn.metrics import r2_score,mean_squared_error
+import manim
+
 
 from sklearn.linear_model import LinearRegression
 lr_model = LinearRegression()
